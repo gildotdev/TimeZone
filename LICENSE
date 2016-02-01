@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Apache License
+=======
+                                 Apache License
+>>>>>>> 9c383060e4a3d8edd77525045acf0de530a2a2f2
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
@@ -186,7 +190,11 @@ Apache License
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
+<<<<<<< HEAD
    Copyright 2013-2015 Iron Summit Media Strategies, LLC
+=======
+   Copyright {yyyy} {name of copyright owner}
+>>>>>>> 9c383060e4a3d8edd77525045acf0de530a2a2f2
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -199,4 +207,7 @@ Apache License
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9c383060e4a3d8edd77525045acf0de530a2a2f2
